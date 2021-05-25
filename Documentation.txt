@@ -1,0 +1,31 @@
+1)meta Mask(1):
+  install chrome extention
+  create account(password)
+  Two step verification-word phrase(optional)
+  connect test network(Rinkeby)
+
+2)Facebook or Twitter :
+   Post meta mask account address with some message 
+ 
+3)Meta Mask(2):
+ Buy ether ->Test faucet-> Rinkeby Dashboard -> cryptofaucet ->paste Facebook or Twitter post link -> Give me ether(choose your wish)
+
+4)solidity IDE:
+  Bank.sol
+  compile(auto compile)
+  copy-ABI
+  deploy and run(injected web3,metamask account)
+  copy-deployed contract address
+
+6)installation:
+   VS code
+   Node JS
+
+5)create front end:
+  index.html(use ABI,deployed contract address)
+  style.css
+  npm install -g http-server
+  http-server(two ip-address will provided )
+  open any one ip-address
+  connect metamask to this website
+  open your web app 
